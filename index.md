@@ -1,4 +1,4 @@
 ---
 layout: home
-list_title: 课程内容
+list_title: 消息
 ---
